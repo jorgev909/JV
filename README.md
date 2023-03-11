@@ -1,1 +1,1 @@
-# JV
+Created a copy of my Resume using only HTML. This website allows the user to contact me via email. The user can also view my LinkedIn account by clicking on the links. Website is very easy to use because of the simplicity. 
